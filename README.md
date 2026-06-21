@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Komal Vardhan Lolugu</h1>
-<h3 align="center">AI Product Engineer · GenAI Systems · Full-Stack & DevOps</h3>
 
 <p align="center">
-  I design and ship production-grade GenAI applications — voice agents, knowledge-graph systems, and full-stack AI platforms — end to end.
+  <a href="https://github.com/KomalSrinivasan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=620&lines=AI+Product+Engineer;GenAI+%2B+Full-Stack+Systems+Builder;Voice+Agents+%7C+Knowledge+Graphs+%7C+RAG;Founder+%40+True+Mentor+%C2%B7+Co-founder+%40+Cerevyn" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -11,6 +12,11 @@
   <a href="https://komalvardhan.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://instagram.com/mentor_true"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:komalsrinivasan.l@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KomalSrinivasan&label=Profile%20views&color=3ECF8E&style=flat" alt="profile views" />
+  <a href="https://github.com/KomalSrinivasan?tab=followers"><img src="https://img.shields.io/github/followers/KomalSrinivasan?label=Followers&style=social" alt="followers" /></a>
 </p>
 
 ---
@@ -89,22 +95,43 @@
 
 ---
 
+## 📌 Featured Projects
+
+> Replace `<repo-name>` with your actual repo slugs to render live, clickable cards.
+
+<p align="center">
+  <a href="https://github.com/KomalSrinivasan/<repo-name>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KomalSrinivasan&repo=<repo-name>&theme=react&hide_border=true" alt="True Mentor" />
+  </a>
+  <a href="https://github.com/KomalSrinivasan/<repo-name>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KomalSrinivasan&repo=<repo-name>&theme=react&hide_border=true" alt="AgriGuru" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KomalSrinivasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KomalSrinivasan&theme=react&hide_border=true&count_private=true&show_icons=true" alt="stats" />
 </p>
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KomalSrinivasan&theme=dark&hide_border=false" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=KomalSrinivasan&theme=react&hide_border=true" alt="streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalSrinivasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalSrinivasan&theme=react&hide_border=true&layout=compact&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalSrinivasan&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KomalSrinivasan&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KomalSrinivasan&theme=radical&no-frame=true&margin-w=4&column=7" alt="trophies" />
 </p>
 
 ---
