@@ -15,6 +15,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Senior%20AI%20%2F%20Full--Stack%20Roles-3ECF8E?style=for-the-badge" alt="Open to opportunities" />
   <img src="https://komarev.com/ghpvc/?username=KomalSrinivasan&label=Profile%20views&color=3ECF8E&style=flat" alt="profile views" />
   <a href="https://github.com/KomalSrinivasan?tab=followers"><img src="https://img.shields.io/github/followers/KomalSrinivasan?label=Followers&style=social" alt="followers" /></a>
 </p>
@@ -117,21 +118,7 @@ I'm an **AI Product Engineer** building production-grade GenAI systems end to en
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [The Model Context Protocol: The Missing Link in AI Development](https://komalvardhan.medium.com/the-model-context-protocol-the-missing-link-in-ai-development-af40a57fe553?source=rss-cc691a1c3cea------2) — 
-  <sub>Mon Jul 07 2025 4:55 AM</sub>
-
-- [Your Privacy Is at Stake — And It’s Worse Than You Think](https://pub.aimind.so/your-privacy-is-at-stake-and-its-worse-than-you-think-39c14800f1c8?source=rss-cc691a1c3cea------2) — 
-  <sub>Tue Apr 01 2025 6:08 AM</sub>
-
-- [DeepSeek: The Chinese AI Revolution](https://pub.aimind.so/deepseek-the-chinese-ai-revolution-776cefb11365?source=rss-cc691a1c3cea------2) — 
-  <sub>Tue Jan 28 2025 3:53 AM</sub>
-
-- [Understanding the Shift in Software Development Jobs: Where Have They Gone?](https://komalvardhan.medium.com/understanding-the-shift-in-software-development-jobs-where-have-they-gone-467ea7ac8779?source=rss-cc691a1c3cea------2) — 
-  <sub>Thu Dec 05 2024 10:30 PM</sub>
-
-- [The Ultimate Guide to Getting the Most Out of Life: Time Management for Mortals](https://komalvardhan.medium.com/the-ultimate-guide-to-getting-the-most-out-of-life-time-management-for-mortals-cec616e47417?source=rss-cc691a1c3cea------2) — 
-  <sub>Thu Dec 05 2024 4:30 PM</sub>
-
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updates from Medium. See more at [komalvardhan.medium.com](https://komalvardhan.medium.com/)
@@ -141,16 +128,16 @@ I'm an **AI Product Engineer** building production-grade GenAI systems end to en
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KomalSrinivasan&theme=react&hide_border=true&count_private=true&show_icons=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalSrinivasan&theme=react&hide_border=true&layout=compact&langs_count=8" alt="top langs" />
+  <img height="200" src="https://komalvardhan.com/api/github-stats" alt="GitHub stats (incl. private)" />
+  <img height="200" src="https://komalvardhan.com/api/github-languages" alt="Top languages (incl. private)" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KomalSrinivasan&theme=react&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=KomalSrinivasan&background=0D1117&border=30363D&stroke=30363D&ring=FF8E53&fire=FF8E53&currStreakLabel=FF8E53&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalSrinivasan&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalSrinivasan&bg_color=0D1117&color=FF8E53&line=FF8E53&point=FFFFFF&area=true&area_color=FF8E53&hide_border=true" alt="activity graph" />
 </p>
 
 ---
