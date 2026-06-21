@@ -1,0 +1,28 @@
+name: Latest Medium posts → README
+
+# Refreshes the "Latest Blog Posts" section of the profile README
+# from your Medium feed. Runs hourly and on manual trigger.
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour (UTC)
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write           # required so the Action can commit the updated README
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://komalvardhan.medium.com/feed"
+          max_post_count: 5
+          # Title + date, newest first
+          template: "- [$title]($url) — $newline  <sub>$date</sub>$newline$newline"
