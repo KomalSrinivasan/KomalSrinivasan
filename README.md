@@ -51,7 +51,6 @@ I'm an **AI Product Engineer** building production-grade GenAI systems end to en
 | --- | --- | --- |
 | **AgriGuru** | Multilingual agricultural AI assistant with crop-disease detection | FastAPI · AWS Bedrock · LLMs |
 
-> Swap the placeholder links above for your live repo / site URLs.
 
 ---
 
