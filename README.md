@@ -15,6 +15,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Senior%20AI%20%2F%20Full--Stack%20Roles-3ECF8E?style=for-the-badge" alt="Open to opportunities" />
   <img src="https://komarev.com/ghpvc/?username=KomalSrinivasan&label=Profile%20views&color=3ECF8E&style=flat" alt="profile views" />
   <a href="https://github.com/KomalSrinivasan?tab=followers"><img src="https://img.shields.io/github/followers/KomalSrinivasan?label=Followers&style=social" alt="followers" /></a>
 </p>
@@ -30,6 +31,14 @@ I'm an **AI Product Engineer** building production-grade GenAI systems end to en
 - ⚙️ Automating delivery on **Azure DevOps, AKS, and Kubernetes** (CI/CD, PV/PVC, Ingress)
 - ✍️ Writing & speaking on applied AI, DevOps, and software architecture
 - 📫 Reach me at **komalsrinivasan.l@gmail.com**
+
+---
+
+## ⚡ Currently
+
+- 🛠️ Building **real-time voice agents** and **knowledge-graph** systems for domain knowledge capture
+- 🌱 Going deeper on **agentic LLM workflows** and **local model inference** (llama.cpp / MLX)
+- 🤝 Open to collaborating on **GenAI** and **developer tooling**
 
 ---
 
@@ -51,6 +60,7 @@ I'm an **AI Product Engineer** building production-grade GenAI systems end to en
 | --- | --- | --- |
 | **AgriGuru** | Multilingual agricultural AI assistant with crop-disease detection | FastAPI · AWS Bedrock · LLMs |
 
+> 📍 More on my **pinned repositories** above ↑
 
 ---
 
@@ -103,6 +113,15 @@ I'm an **AI Product Engineer** building production-grade GenAI systems end to en
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> Auto-updates from Medium. See more at [komalvardhan.medium.com](https://komalvardhan.medium.com/)
 
 ---
 
