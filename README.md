@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/KomalSrinivasan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=620&lines=AI+Product+Engineer;GenAI+%2B+Full-Stack+Systems+Builder;Voice+Agents+%7C+Knowledge+Graphs+%7C+RAG;Founder+%40+True+Mentor+%C2%B7+Co-founder+%40+Cerevyn" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=620&lines=AI+Product+Engineer;GenAI+%2B+Full-Stack+Systems+Builder;Voice+Agents+%7C+Knowledge+Graphs+%7C+RAG" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,7 +28,6 @@ I'm an **AI Product Engineer** building production-grade GenAI systems end to en
 - 🔭 Building **GenAI systems** — voice agents, RAG pipelines, and knowledge-graph platforms
 - 🏗️ Architecting full-stack products with **Next.js · FastAPI · Supabase · Neo4j**
 - ⚙️ Automating delivery on **Azure DevOps, AKS, and Kubernetes** (CI/CD, PV/PVC, Ingress)
-- 🚀 Founder of **True Mentor** · Co-founder of **Cerevyn Solutions**
 - ✍️ Writing & speaking on applied AI, DevOps, and software architecture
 - 📫 Reach me at **komalsrinivasan.l@gmail.com**
 
@@ -50,8 +49,6 @@ I'm an **AI Product Engineer** building production-grade GenAI systems end to en
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **[True Mentor](https://komalvardhan.com)** | AI education & mentorship platform for engineers | Next.js · Supabase · GenAI |
-| **Cerevyn Solutions** | Enterprise AI — healthcare, automation, intelligent agents | FastAPI · LangGraph · Azure |
 | **AgriGuru** | Multilingual agricultural AI assistant with crop-disease detection | FastAPI · AWS Bedrock · LLMs |
 
 > Swap the placeholder links above for your live repo / site URLs.
