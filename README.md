@@ -15,7 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Senior%20AI%20%2F%20Full--Stack%20Roles-3ECF8E?style=for-the-badge" alt="Open to opportunities" />
   <img src="https://komarev.com/ghpvc/?username=KomalSrinivasan&label=Profile%20views&color=3ECF8E&style=flat" alt="profile views" />
   <a href="https://github.com/KomalSrinivasan?tab=followers"><img src="https://img.shields.io/github/followers/KomalSrinivasan?label=Followers&style=social" alt="followers" /></a>
 </p>
