@@ -23,23 +23,38 @@
 
 ## 🧠 About Me
 
-- 🔭 Building **production GenAI systems** — voice agents, RAG pipelines, and knowledge-graph platforms
+I'm an **AI Product Engineer** building production-grade GenAI systems end to end — from voice agents and knowledge graphs to the full-stack platforms and cloud pipelines that ship them.
+
+- 🔭 Building **GenAI systems** — voice agents, RAG pipelines, and knowledge-graph platforms
 - 🏗️ Architecting full-stack products with **Next.js · FastAPI · Supabase · Neo4j**
-- ⚙️ Automating delivery on **Azure DevOps, AKS, and Kubernetes** (CI/CD, PV/PVC, Ingress, ConfigMaps & Secrets)
-- 🚀 Founder of **True Mentor** (AI education & mentorship) · Co-founder of **Cerevyn Solutions**
+- ⚙️ Automating delivery on **Azure DevOps, AKS, and Kubernetes** (CI/CD, PV/PVC, Ingress)
+- 🚀 Founder of **True Mentor** · Co-founder of **Cerevyn Solutions**
 - ✍️ Writing & speaking on applied AI, DevOps, and software architecture
-- 💬 Ask me about **GenAI app design, product engineering, graph databases, and cloud-native delivery**
 - 📫 Reach me at **komalsrinivasan.l@gmail.com**
 
 ---
 
 ## 🛠️ What I Build
 
-- **GenAI Applications** — Conversational agents, document/RAG systems, and autonomous workflows built on LangChain, LlamaIndex, and LangGraph.
-- **Voice-Driven Agents** — Real-time STT → LLM → TTS pipelines (Azure OpenAI Realtime, Whisper, Pipecat) for domain knowledge capture.
-- **Knowledge Graphs** — Neo4j + Cypher schemas modelling complex, relationship-heavy domains.
-- **Full-Stack Platforms** — Type-safe Next.js / TypeScript frontends on Supabase + FastAPI backends.
-- **Cloud & DevOps** — Azure AKS pipelines, IaC with Bicep/Terraform, and containerized microservices.
+| Domain | Focus |
+| --- | --- |
+| **GenAI Applications** | Conversational agents, document/RAG systems, and autonomous workflows on LangChain, LlamaIndex, and LangGraph |
+| **Voice-Driven Agents** | Real-time STT → LLM → TTS pipelines (Azure OpenAI Realtime, Whisper, Pipecat) |
+| **Knowledge Graphs** | Neo4j + Cypher schemas for complex, relationship-heavy domains |
+| **Full-Stack Platforms** | Type-safe Next.js / TypeScript frontends on Supabase + FastAPI backends |
+| **Cloud & DevOps** | Azure AKS pipelines, IaC with Bicep / Terraform, containerized microservices |
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[True Mentor](https://komalvardhan.com)** | AI education & mentorship platform for engineers | Next.js · Supabase · GenAI |
+| **Cerevyn Solutions** | Enterprise AI — healthcare, automation, intelligent agents | FastAPI · LangGraph · Azure |
+| **AgriGuru** | Multilingual agricultural AI assistant with crop-disease detection | FastAPI · AWS Bedrock · LLMs |
+
+> Swap the placeholder links above for your live repo / site URLs.
 
 ---
 
@@ -95,25 +110,11 @@
 
 ---
 
-## 📌 Featured Projects
-
-> Replace `<repo-name>` with your actual repo slugs to render live, clickable cards.
-
-<p align="center">
-  <a href="https://github.com/KomalSrinivasan/<repo-name>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KomalSrinivasan&repo=<repo-name>&theme=react&hide_border=true" alt="True Mentor" />
-  </a>
-  <a href="https://github.com/KomalSrinivasan/<repo-name>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KomalSrinivasan&repo=<repo-name>&theme=react&hide_border=true" alt="AgriGuru" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KomalSrinivasan&theme=react&hide_border=true&count_private=true&show_icons=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KomalSrinivasan&theme=react&hide_border=true&count_private=true&show_icons=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalSrinivasan&theme=react&hide_border=true&layout=compact&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
@@ -121,17 +122,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalSrinivasan&theme=react&hide_border=true&layout=compact&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalSrinivasan&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KomalSrinivasan&theme=radical&no-frame=true&margin-w=4&column=7" alt="trophies" />
 </p>
 
 ---
