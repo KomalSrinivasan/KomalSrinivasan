@@ -83,33 +83,15 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 ## 🏅 Certifications & Verified Credentials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-Certified-3ECF8E?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Certified" />
-  <img src="https://img.shields.io/badge/Credly-Verified%20Credentials-F5A623?style=for-the-badge&logo=credly&logoColor=white" alt="Credly credentials" />
+  <img src="claude-certified-architect-foundations.png" alt="Claude Certified Architect, Foundations" height="130" />
+  <img src="exam-az400-600x600.png" alt="Microsoft Certified, AZ-400 DevOps Engineer Expert exam" height="130" />
+  <img src="CERT-Expert-DevOps-Engineer-600x600.png" alt="Microsoft Certified, DevOps Engineer Expert" height="130" />
+  <img src="azure%20fundamentals.png" alt="Microsoft Certified, Azure Fundamentals" height="130" />
+  <img src="azure-developer-associate-600x600.png" alt="Microsoft Certified, Azure Developer Associate" height="130" />
 </p>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/73e4de68-a715-493c-a4c8-7b5fbfc8d8ff/public_url">
-    <img src="https://img.shields.io/badge/Credly-Credential%2001-F5A623?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Credential 01" />
-  </a>
-  <a href="https://www.credly.com/badges/213ab76a-b89c-45d0-89b9-1119589466d1/public_url">
-    <img src="https://img.shields.io/badge/Credly-Credential%2002-F5A623?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Credential 02" />
-  </a>
-  <a href="https://www.credly.com/badges/c807f00f-0725-433e-8759-8607ec2ff247/public_url">
-    <img src="https://img.shields.io/badge/Credly-Credential%2003-F5A623?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Credential 03" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.credly.com/badges/c25a9947-af07-40b4-9993-2ba96a82964e/public_url">
-    <img src="https://img.shields.io/badge/Credly-Credential%2004-F5A623?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Credential 04" />
-  </a>
-  <a href="https://www.credly.com/badges/c807f00f-0725-433e-8759-8607ec2ff247/public_url">
-    <img src="https://img.shields.io/badge/Credly-Credential%2005-F5A623?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Credential 05" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Click any credential to view its public Credly verification record.</sub>
+  <sub>Claude Certified Architect (Anthropic Academy, Foundations) · Microsoft Certified: DevOps Engineer Expert · Azure Fundamentals · Azure Developer Associate · AZ-400 exam</sub>
 </p>
 
 ---
@@ -192,19 +174,16 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalSrinivasan&bg_color=0D1117&color=FF8E53&line=FF8E53&point=FFFFFF&area=true&area_color=FF8E53&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://ghchart.rshah.org/FF8E53/KomalSrinivasan" alt="Komal Vardhan Lolugu's GitHub contribution graph" />
 </p>
 
-<!--
-Optional GitBlend section:
-Replace YOUR_GITLAB_USERNAME with your exact GitLab username before enabling.
--->
+<p align="center">
+  <img src="https://gitblend.com/api/contributions?username=KomalSrinivasan&theme=dark" alt="GitBlend contributions" />
+</p>
 
-## My GitHub + GitLab Combined Contributions
-![GitBlend Contributions](https://gitblend.com/api/contributions?username=KomalSrinivasan)
-![Contributions](https://gitblend.com/api/contributions/combined?github=KomalSrinivasan&bg=%23ffffff)
-
-[Get your own combined GitLab + GitHub contributions graph using gitblend.com](https://gitblend.com)
+<p align="center">
+  <sub><a href="https://gitblend.com">GitBlend's combined GitHub + GitLab view</a> needs a signed-in session to authorize the GitLab side, so it's left out here rather than shipping the auth-error placeholder.</sub>
+</p>
 
 ---
 
