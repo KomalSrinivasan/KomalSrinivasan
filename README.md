@@ -170,42 +170,43 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 
 | Metric | Count |
 |---|---:|
-| Total contributions | -- |
-| Total commits | -- |
-| Pull requests opened | -- |
-| Pull requests merged | -- |
-| Issues opened | -- |
-| PR reviews | -- |
-| Current streak (days) | -- |
-| Longest streak (days) | -- |
+| Total contributions | 1528 |
+| Total commits | 224 |
+| Pull requests opened | 12 |
+| Pull requests merged | 5 |
+| Issues opened | 0 |
+| PR reviews | 0 |
+| Current streak (days) | 1 |
+| Longest streak (days) | 14 |
 
 ### Year 2025
 
 | Metric | Count |
 |---|---:|
-| Total contributions | -- |
-| Total commits | -- |
-| Pull requests opened | -- |
-| Pull requests merged | -- |
-| Issues opened | -- |
-| PR reviews | -- |
-| Current streak (days) | -- |
-| Longest streak (days) | -- |
+| Total contributions | 101 |
+| Total commits | 1 |
+| Pull requests opened | 0 |
+| Pull requests merged | 0 |
+| Issues opened | 0 |
+| PR reviews | 0 |
+| Current streak (days) | 0 |
+| Longest streak (days) | 5 |
 
 ### Year 2026 (YTD)
 
 | Metric | Count |
 |---|---:|
-| Total contributions | -- |
-| Total commits | -- |
-| Pull requests opened | -- |
-| Pull requests merged | -- |
-| Issues opened | -- |
-| PR reviews | -- |
-| Current streak (days) | -- |
-| Longest streak (days) | -- |
+| Total contributions | 1161 |
+| Total commits | 51 |
+| Pull requests opened | 12 |
+| Pull requests merged | 5 |
+| Issues opened | 0 |
+| PR reviews | 0 |
+| Current streak (days) | 1 |
+| Longest streak (days) | 14 |
 
 <!-- GITHUB-STATS:END -->
+
 
 <p align="center">
   <img height="200" src="https://komalvardhan.com/api/github-stats" alt="GitHub stats (including private contributions)" />
