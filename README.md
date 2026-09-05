@@ -160,6 +160,17 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 
 > Auto-updates from Medium. See more at [komalvardhan.medium.com](https://komalvardhan.medium.com/)
 
+<!-- GITHUB-STATS:START -->
+| Metric | Count |
+|---|---:|
+| Total contributions (year) | -- |
+| Total commits | -- |
+| Pull requests opened | -- |
+| Pull requests merged | -- |
+| Issues opened | -- |
+| PR reviews | -- |
+<!-- GITHUB-STATS:END -->
+
 ---
 
 ## 📊 GitHub Stats
