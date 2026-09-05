@@ -165,48 +165,78 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 ## 📊 GitHub Stats
 
 <!-- GITHUB-STATS:START -->
+<div style="display:flex;gap:24px;flex-wrap:wrap;align-items:flex-start;justify-content:space-between;margin:12px 0;">
+  <div style="flex:1 1 280px;max-width:33%;">
+    <h3 style="margin:8px 0 12px;color:#f0f6fc">All time</h3>
+    <table style="width:100%;border-collapse:collapse;background:transparent;color:#cbd5e1">
+      <thead>
+        <tr>
+          <th style="text-align:left;padding:8px;border:1px solid rgba(255,255,255,0.06);background:#0b1220;color:#f8fafc">Metric</th>
+          <th style="text-align:right;padding:8px;border:1px solid rgba(255,255,255,0.06);background:#0b1220;color:#f8fafc">Count</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Total contributions</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Total commits</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Pull requests opened</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Pull requests merged</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Issues opened</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">PR reviews</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Current streak (days)</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Longest streak (days)</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+      </tbody>
+    </table>
+  </div>
 
-### All time
+  <div style="flex:1 1 280px;max-width:33%;">
+    <h3 style="margin:8px 0 12px;color:#f0f6fc">Year 2025</h3>
+    <table style="width:100%;border-collapse:collapse;background:transparent;color:#cbd5e1">
+      <thead>
+        <tr>
+          <th style="text-align:left;padding:8px;border:1px solid rgba(255,255,255,0.06);background:#0b1220;color:#f8fafc">Metric</th>
+          <th style="text-align:right;padding:8px;border:1px solid rgba(255,255,255,0.06);background:#0b1220;color:#f8fafc">Count</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Total contributions</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Total commits</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Pull requests opened</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Pull requests merged</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Issues opened</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">PR reviews</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Current streak (days)</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Longest streak (days)</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+      </tbody>
+    </table>
+  </div>
 
-| Metric | Count |
-|---|---:|
-| Total contributions | 1528 |
-| Total commits | 224 |
-| Pull requests opened | 12 |
-| Pull requests merged | 5 |
-| Issues opened | 0 |
-| PR reviews | 0 |
-| Current streak (days) | 1 |
-| Longest streak (days) | 14 |
+  <div style="flex:1 1 280px;max-width:33%;">
+    <h3 style="margin:8px 0 12px;color:#f0f6fc">Year 2026 (YTD)</h3>
+    <table style="width:100%;border-collapse:collapse;background:transparent;color:#cbd5e1">
+      <thead>
+        <tr>
+          <th style="text-align:left;padding:8px;border:1px solid rgba(255,255,255,0.06);background:#0b1220;color:#f8fafc">Metric</th>
+          <th style="text-align:right;padding:8px;border:1px solid rgba(255,255,255,0.06);background:#0b1220;color:#f8fafc">Count</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Total contributions</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Total commits</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Pull requests opened</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Pull requests merged</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Issues opened</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">PR reviews</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Current streak (days)</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+        <tr><td style="padding:8px;border:1px solid rgba(255,255,255,0.04)">Longest streak (days)</td><td style="padding:8px;border:1px solid rgba(255,255,255,0.04);text-align:right">--</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
-### Year 2025
-
-| Metric | Count |
-|---|---:|
-| Total contributions | 101 |
-| Total commits | 1 |
-| Pull requests opened | 0 |
-| Pull requests merged | 0 |
-| Issues opened | 0 |
-| PR reviews | 0 |
-| Current streak (days) | 0 |
-| Longest streak (days) | 5 |
-
-### Year 2026 (YTD)
-
-| Metric | Count |
-|---|---:|
-| Total contributions | 1161 |
-| Total commits | 51 |
-| Pull requests opened | 12 |
-| Pull requests merged | 5 |
-| Issues opened | 0 |
-| PR reviews | 0 |
-| Current streak (days) | 1 |
-| Longest streak (days) | 14 |
-
+<p style="font-size:12px;color:#94a3b8;margin-top:6px">
+  Note: Counts will include private contributions when you add a Personal Access Token (PAT) named <code>GH_STATS_PAT</code> in your repository secrets. Without the PAT, only public contributions are visible to the GitHub API.
+</p>
 <!-- GITHUB-STATS:END -->
-
 
 <p align="center">
   <img height="200" src="https://komalvardhan.com/api/github-stats" alt="GitHub stats (including private contributions)" />
