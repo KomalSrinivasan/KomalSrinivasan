@@ -1,0 +1,46 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # daily at 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Generate GitHub stats and update README
+        env:
+          # Use your secret PAT to include private contributions
+          PERSONAL_TOKEN: ${{ secrets.GH_STATS_PAT }}
+          GITHUB_ACTOR: ${{ github.actor }}
+        run: |
+          python scripts/generate_github_stats.py --username KomalSrinivasan
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "chore: update GitHub stats"
+            git push
+          else
+            echo "No changes to commit"
+          fi
