@@ -201,8 +201,8 @@ Replace YOUR_GITLAB_USERNAME with your exact GitLab username before enabling.
 -->
 
 ## My GitHub + GitLab Combined Contributions
-
-![Contributions](https://gitblend.com/api/contributions/combined?github=KomalSrinivasan&gitlab=YOUR_GITLAB_USERNAME&theme=gitlab&bg=%23ffffff)
+![GitBlend Contributions](https://gitblend.com/api/contributions?username=KomalSrinivasan)
+![Contributions](https://gitblend.com/api/contributions/combined?github=KomalSrinivasan&bg=%23ffffff)
 
 [Get your own combined GitLab + GitHub contributions graph using gitblend.com](https://gitblend.com)
 
