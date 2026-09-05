@@ -174,6 +174,10 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 </p>
 
 <p align="center">
+  <sub><strong>1,791 contributions in the last year</strong></sub>
+</p>
+
+<p align="center">
   <img src="https://ghchart.rshah.org/FF8E53/KomalSrinivasan" alt="Komal Vardhan Lolugu's GitHub contribution graph" />
 </p>
 
