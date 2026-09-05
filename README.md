@@ -177,14 +177,6 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
   <img src="https://ghchart.rshah.org/FF8E53/KomalSrinivasan" alt="Komal Vardhan Lolugu's GitHub contribution graph" />
 </p>
 
-<p align="center">
-  <img src="https://gitblend.com/api/contributions?username=KomalSrinivasan&theme=dark" alt="GitBlend contributions" />
-</p>
-
-<p align="center">
-  <sub><a href="https://gitblend.com">GitBlend's combined GitHub + GitLab view</a> needs a signed-in session to authorize the GitLab side, so it's left out here rather than shipping the auth-error placeholder.</sub>
-</p>
-
 ---
 
 <p align="center">
