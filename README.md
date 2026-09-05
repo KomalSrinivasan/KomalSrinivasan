@@ -162,7 +162,6 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 
 ---
 
-<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -187,31 +186,3 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 <p align="center">
   <i>Building useful AI, one shipped feature at a time.</i>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Cleaned up Stats & Language Cards Side-by-Side -->
-  <img src="https://vercel.app" height="190" alt="GitHub Stats" />
-  <img src="https://vercel.app" height="190" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Unified Theme Streak Stats Card -->
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Responsive, Modern Contribution Wave Graph -->
-  <img src="https://vercel.app" width="100%" alt="Contribution Graph" />
-</p>
-
----
-
-<p align="center">
-  <i>Building useful AI, one shipped feature at a time.</i>
-</p>
-
-
