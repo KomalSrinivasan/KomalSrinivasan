@@ -165,48 +165,71 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 ## 📊 GitHub Stats
 
 <!-- GITHUB-STATS:START -->
+<table width="100%" cellpadding="8" cellspacing="0" border="0">
+  <tr align="top">
+    <td width="33%" valign="top">
+      <h3>All time</h3>
+      <table cellpadding="6" cellspacing="0" border="1">
+        <thead>
+          <tr><th align="left">Metric</th><th align="right">Count</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Total contributions</td><td align="right">--</td></tr>
+          <tr><td>Total commits</td><td align="right">--</td></tr>
+          <tr><td>Pull requests opened</td><td align="right">--</td></tr>
+          <tr><td>Pull requests merged</td><td align="right">--</td></tr>
+          <tr><td>Issues opened</td><td align="right">--</td></tr>
+          <tr><td>PR reviews</td><td align="right">--</td></tr>
+          <tr><td>Current streak (days)</td><td align="right">--</td></tr>
+          <tr><td>Longest streak (days)</td><td align="right">--</td></tr>
+        </tbody>
+      </table>
+    </td>
 
-### All time
+    <td width="33%" valign="top">
+      <h3>Year 2025</h3>
+      <table cellpadding="6" cellspacing="0" border="1">
+        <thead>
+          <tr><th align="left">Metric</th><th align="right">Count</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Total contributions</td><td align="right">--</td></tr>
+          <tr><td>Total commits</td><td align="right">--</td></tr>
+          <tr><td>Pull requests opened</td><td align="right">--</td></tr>
+          <tr><td>Pull requests merged</td><td align="right">--</td></tr>
+          <tr><td>Issues opened</td><td align="right">--</td></tr>
+          <tr><td>PR reviews</td><td align="right">--</td></tr>
+          <tr><td>Current streak (days)</td><td align="right">--</td></tr>
+          <tr><td>Longest streak (days)</td><td align="right">--</td></tr>
+        </tbody>
+      </table>
+    </td>
 
-| Metric | Count |
-|---|---:|
-| Total contributions | 1528 |
-| Total commits | 224 |
-| Pull requests opened | 12 |
-| Pull requests merged | 5 |
-| Issues opened | 0 |
-| PR reviews | 0 |
-| Current streak (days) | 1 |
-| Longest streak (days) | 14 |
+    <td width="34%" valign="top">
+      <h3>Year 2026 (YTD)</h3>
+      <table cellpadding="6" cellspacing="0" border="1">
+        <thead>
+          <tr><th align="left">Metric</th><th align="right">Count</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Total contributions</td><td align="right">--</td></tr>
+          <tr><td>Total commits</td><td align="right">--</td></tr>
+          <tr><td>Pull requests opened</td><td align="right">--</td></tr>
+          <tr><td>Pull requests merged</td><td align="right">--</td></tr>
+          <tr><td>Issues opened</td><td align="right">--</td></tr>
+          <tr><td>PR reviews</td><td align="right">--</td></tr>
+          <tr><td>Current streak (days)</td><td align="right">--</td></tr>
+          <tr><td>Longest streak (days)</td><td align="right">--</td></tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
-### Year 2025
-
-| Metric | Count |
-|---|---:|
-| Total contributions | 101 |
-| Total commits | 1 |
-| Pull requests opened | 0 |
-| Pull requests merged | 0 |
-| Issues opened | 0 |
-| PR reviews | 0 |
-| Current streak (days) | 0 |
-| Longest streak (days) | 5 |
-
-### Year 2026 (YTD)
-
-| Metric | Count |
-|---|---:|
-| Total contributions | 1161 |
-| Total commits | 51 |
-| Pull requests opened | 12 |
-| Pull requests merged | 5 |
-| Issues opened | 0 |
-| PR reviews | 0 |
-| Current streak (days) | 1 |
-| Longest streak (days) | 14 |
-
+<p style="font-size:12px;color:gray">
+  Note: Counts will include private contributions when you add a Personal Access Token (PAT) named <code>GH_STATS_PAT</code> in your repository secrets (token must have <code>repo</code> scope). Without the PAT, the GitHub API returns public-only data.
+</p>
 <!-- GITHUB-STATS:END -->
-
 
 <p align="center">
   <img height="200" src="https://komalvardhan.com/api/github-stats" alt="GitHub stats (including private contributions)" />
