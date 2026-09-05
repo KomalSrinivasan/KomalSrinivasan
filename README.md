@@ -188,7 +188,7 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
   <i>Building useful AI, one shipped feature at a time.</i>
 </p>
 
---
+---
 
 ## 📊 GitHub Stats
 
@@ -213,4 +213,5 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 <p align="center">
   <i>Building useful AI, one shipped feature at a time.</i>
 </p>
+
 
