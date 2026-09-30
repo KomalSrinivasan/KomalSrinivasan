@@ -179,13 +179,13 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 
 | Metric | Count |
 |---|---:|
-| Total contributions | 1749 |
+| Total contributions | 1752 |
 | Total commits | 256 |
-| Pull requests opened | 81 |
-| Pull requests merged | 70 |
+| Pull requests opened | 84 |
+| Pull requests merged | 72 |
 | Issues opened | 0 |
 | PR reviews | 0 |
-| Current streak (days) | 0 |
+| Current streak (days) | 4 |
 | Longest streak (days) | 14 |
 
 ### Year 2025
@@ -205,16 +205,17 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 
 | Metric | Count |
 |---|---:|
-| Total contributions | 1382 |
+| Total contributions | 1385 |
 | Total commits | 83 |
-| Pull requests opened | 81 |
-| Pull requests merged | 70 |
+| Pull requests opened | 84 |
+| Pull requests merged | 72 |
 | Issues opened | 0 |
 | PR reviews | 0 |
-| Current streak (days) | 0 |
+| Current streak (days) | 4 |
 | Longest streak (days) | 14 |
 
 <!-- GITHUB-STATS:END -->
+
 
 
 
