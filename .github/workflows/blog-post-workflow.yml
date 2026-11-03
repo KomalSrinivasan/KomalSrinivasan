@@ -25,4 +25,4 @@ jobs:
           feed_list: "https://komalvardhan.medium.com/feed"
           max_post_count: 5
           # Title + date, newest first
-          template: "- [$title]($url) — $newline  <sub>$date</sub>$newline$newline"
+          template: "- [$title]($url)$newline  <sub>$date</sub>$newline$newline"

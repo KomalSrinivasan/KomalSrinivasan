@@ -5,7 +5,7 @@ Enhanced GitHub stats generator (fixed to avoid the GraphQL 1-year 'from..to' li
 - Splits requests longer than 1 year into <=365-day chunks and aggregates results.
 - Produces metrics for three periods:
   * All time (from account creation to today)
-  * Last year (calendar 2025)
+  * Last year (previous calendar year)
   * This year (current year YTD)
 
 Requires PERSONAL_TOKEN env var (preferred) or fallback to GITHUB_TOKEN.
@@ -184,9 +184,9 @@ def compute_streaks(days, period_start_date=None, period_end_date=None):
             current_run = 0
         ptr += timedelta(days=1)
 
-    # current streak ending at 'end'
+    # current streak ending at 'end'; today with no activity yet does not break it
     streak = 0
-    ptr = end
+    ptr = end if day_map.get(end.isoformat(), 0) > 0 else end - timedelta(days=1)
     while ptr >= start:
         if day_map.get(ptr.isoformat(), 0) > 0:
             streak += 1
@@ -220,7 +220,7 @@ def generate_block(login, token):
     all_from = created_at
     all_to = today
 
-    last_year = 2025
+    last_year = today.year - 1
     ly_from = date(last_year, 1, 1)
     ly_to = date(last_year, 12, 31)
 
@@ -292,7 +292,7 @@ def generate_block(login, token):
     md += build_table_section("All time", all_metrics)
     md += build_table_section(f"Year {last_year}", ly_metrics)
     md += build_table_section(f"Year {this_year} (YTD)", ty_metrics)
-    md += MARKER_END + "\n"
+    md += MARKER_END
     return md
 
 def update_readme_block(readme_path, block_text):

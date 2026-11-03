@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://komalvardhan.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/komalvardhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/komalvardhanlolugu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://komalvardhan.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://instagram.com/mentor_true"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:komalsrinivasan.l@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -76,7 +76,20 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 | --- | --- | --- |
 | **AgriGuru** | Multilingual agricultural AI assistant with crop-disease detection | FastAPI · AWS Bedrock · LLMs |
 
-> 📍 More on my pinned repositories above ↑
+> 📍 More in my [repositories](https://github.com/KomalSrinivasan?tab=repositories)
+
+---
+
+## 🌍 Open Source Contributions
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [drift-ui](https://github.com/localhostd3veloper/drift-ui) | [Secret field component](https://github.com/localhostd3veloper/drift-ui/pull/91) | ✅ Merged |
+| [drift-ui](https://github.com/localhostd3veloper/drift-ui) | [Timezone picker component](https://github.com/localhostd3veloper/drift-ui/pull/93) | 🔄 In review |
+| [octogent](https://github.com/hesamsheikh/octogent) | [Terminal lifecycle commands, remote access binding fix](https://github.com/hesamsheikh/octogent/pull/7) | 🔄 In review |
+| [octogent](https://github.com/hesamsheikh/octogent) | [Test coverage for type coercion utilities](https://github.com/hesamsheikh/octogent/pull/4) | 🔄 In review |
+| [octogent](https://github.com/hesamsheikh/octogent) | [Centralized logging in place of console statements](https://github.com/hesamsheikh/octogent/pull/3) | 🔄 In review |
+| [super-open-intelligence-book](https://github.com/hesamsheikh/super-open-intelligence-book) | [Skills section for AI coding assistant plugins](https://github.com/hesamsheikh/super-open-intelligence-book/pull/5) | 🔄 In review |
 
 ---
 
@@ -150,19 +163,19 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [The Model Context Protocol: The Missing Link in AI Development](https://komalvardhan.medium.com/the-model-context-protocol-the-missing-link-in-ai-development-af40a57fe553?source=rss-cc691a1c3cea------2) — 
+<!-- BLOG-POST-LIST:START -->- [The Model Context Protocol: The Missing Link in AI Development](https://komalvardhan.medium.com/the-model-context-protocol-the-missing-link-in-ai-development-af40a57fe553?source=rss-cc691a1c3cea------2)
   <sub>Mon Jul 07 2025 4:55 AM</sub>
 
-- [Your Privacy Is at Stake — And It’s Worse Than You Think](https://pub.aimind.so/your-privacy-is-at-stake-and-its-worse-than-you-think-39c14800f1c8?source=rss-cc691a1c3cea------2) — 
+- [Your Privacy Is at Stake — And It’s Worse Than You Think](https://pub.aimind.so/your-privacy-is-at-stake-and-its-worse-than-you-think-39c14800f1c8?source=rss-cc691a1c3cea------2)
   <sub>Tue Apr 01 2025 6:08 AM</sub>
 
-- [DeepSeek: The Chinese AI Revolution](https://pub.aimind.so/deepseek-the-chinese-ai-revolution-776cefb11365?source=rss-cc691a1c3cea------2) — 
+- [DeepSeek: The Chinese AI Revolution](https://pub.aimind.so/deepseek-the-chinese-ai-revolution-776cefb11365?source=rss-cc691a1c3cea------2)
   <sub>Tue Jan 28 2025 3:53 AM</sub>
 
-- [Understanding the Shift in Software Development Jobs: Where Have They Gone?](https://komalvardhan.medium.com/understanding-the-shift-in-software-development-jobs-where-have-they-gone-467ea7ac8779?source=rss-cc691a1c3cea------2) — 
+- [Understanding the Shift in Software Development Jobs: Where Have They Gone?](https://komalvardhan.medium.com/understanding-the-shift-in-software-development-jobs-where-have-they-gone-467ea7ac8779?source=rss-cc691a1c3cea------2)
   <sub>Thu Dec 05 2024 10:30 PM</sub>
 
-- [The Ultimate Guide to Getting the Most Out of Life: Time Management for Mortals](https://komalvardhan.medium.com/the-ultimate-guide-to-getting-the-most-out-of-life-time-management-for-mortals-cec616e47417?source=rss-cc691a1c3cea------2) — 
+- [The Ultimate Guide to Getting the Most Out of Life: Time Management for Mortals](https://komalvardhan.medium.com/the-ultimate-guide-to-getting-the-most-out-of-life-time-management-for-mortals-cec616e47417?source=rss-cc691a1c3cea------2)
   <sub>Thu Dec 05 2024 4:30 PM</sub>
 
 <!-- BLOG-POST-LIST:END -->
@@ -216,66 +229,6 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 
 <!-- GITHUB-STATS:END -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
   <img height="200" src="https://komalvardhan.com/api/github-stats" alt="GitHub stats (including private contributions)" />
   <img height="200" src="https://komalvardhan.com/api/github-languages" alt="Top languages (including private contributions)" />
@@ -283,10 +236,6 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=KomalSrinivasan&background=0D1117&border=30363D&stroke=30363D&ring=FF8E53&fire=FF8E53&currStreakLabel=FF8E53&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <sub><strong>1,791 contributions in the last year</strong></sub>
 </p>
 
 <p align="center">
