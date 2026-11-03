@@ -84,6 +84,12 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 
 | Project | Contribution | Status |
 | --- | --- | --- |
+| [dograh](https://github.com/dograh-hq/dograh) | [Allow invited org members to start workflow runs](https://github.com/dograh-hq/dograh/pull/509) | ✅ Merged |
+| [openmed](https://github.com/maziyarpanahi/openmed) | [Audio format distribution summaries](https://github.com/maziyarpanahi/openmed/pull/3220) | ✅ Merged |
+| [openmed](https://github.com/maziyarpanahi/openmed) | [Content-free frame-sampling manifests](https://github.com/maziyarpanahi/openmed/pull/3219) | ✅ Merged |
+| [openmed](https://github.com/maziyarpanahi/openmed) | [SPDX identifier normalization for synthetic lineage](https://github.com/maziyarpanahi/openmed/pull/3218) | ✅ Merged |
+| [openmed](https://github.com/maziyarpanahi/openmed) | [Deterministic audio resampling plans](https://github.com/maziyarpanahi/openmed/pull/3217) | ✅ Merged |
+| [openmed](https://github.com/maziyarpanahi/openmed) | [Allocation-safe image geometry derivation](https://github.com/maziyarpanahi/openmed/pull/3216) | ✅ Merged |
 | [drift-ui](https://github.com/localhostd3veloper/drift-ui) | [Secret field component](https://github.com/localhostd3veloper/drift-ui/pull/91) | ✅ Merged |
 | [drift-ui](https://github.com/localhostd3veloper/drift-ui) | [Timezone picker component](https://github.com/localhostd3veloper/drift-ui/pull/93) | 🔄 In review |
 | [octogent](https://github.com/hesamsheikh/octogent) | [Terminal lifecycle commands, remote access binding fix](https://github.com/hesamsheikh/octogent/pull/7) | 🔄 In review |
