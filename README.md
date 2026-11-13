@@ -204,7 +204,7 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 | Pull requests merged | 19 |
 | Issues opened | 0 |
 | PR reviews | 0 |
-| Current streak (days) | 3 |
+| Current streak (days) | 0 |
 | Longest streak (days) | 14 |
 
 ### Year 2025
@@ -230,7 +230,7 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 | Pull requests merged | 19 |
 | Issues opened | 0 |
 | PR reviews | 0 |
-| Current streak (days) | 3 |
+| Current streak (days) | 0 |
 | Longest streak (days) | 14 |
 
 <!-- GITHUB-STATS:END -->
