@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Komal Vardhan Lolugu</h1>
 <p align="center">
-  <strong>Lead Product Engineer · AI Product Engineer · GenAI Systems Builder</strong>
+  <strong>Lead Product Engineer and Researcher · LLM Agents · Multi-Agent Systems</strong>
 </p>
 <p align="center">
   <a href="https://github.com/KomalSrinivasan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=760&lines=Lead+Product+Engineer;AI+Product+Engineer+%7C+GenAI+%2B+Full-Stack+Systems+Builder;Voice+Agents+%7C+Knowledge+Graphs+%7C+RAG;Building+useful+AI%2C+one+shipped+feature+at+a+time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=760&lines=Lead+Product+Engineer+and+Researcher;LLM+Agents+%7C+Multi-Agent+Systems+%7C+Agent+Protocols;Voice+Agents+%7C+Knowledge+Graphs+%7C+RAG;Building+useful+AI%2C+one+shipped+feature+at+a+time." alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
   <a href="https://komalvardhan.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/komalvardhanlolugu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://komalvardhan.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.youtube.com/@komalsrinivasan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://orcid.org/0009-0004-7698-5499"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://instagram.com/mentor_true"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:komalsrinivasan.l@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -33,13 +35,28 @@
 
 ## 🧠 About Me
 
-I'm a Lead Product Engineer and AI Product Engineer building production-grade GenAI systems end to end, from voice agents and knowledge graphs to the full-stack platforms and cloud pipelines that ship them.
+I'm a Lead Product Engineer at Oraczen and an independent researcher in Hyderabad. I build production GenAI systems end to end, from voice agents and knowledge graphs to the platforms and cloud pipelines that ship them. On the research side, I study LLM agents and multi-agent systems.
 
 - 🔭 Building GenAI systems: voice agents, RAG pipelines, and knowledge-graph platforms
 - 🏗️ Architecting full-stack products with Next.js, FastAPI, Supabase, Neo4j
 - ⚙️ Automating delivery on Azure DevOps, AKS, and Kubernetes (CI/CD, PV/PVC, Ingress)
 - ✍️ Writing and speaking on applied AI, DevOps, and software architecture
 - 📫 Reach me at komalsrinivasan.l@gmail.com
+
+---
+
+## 🔬 Research
+
+I study how to evaluate LLMs and agents reliably and reproducibly, how agents built by different organisations negotiate and coordinate, and how to make agent systems secure and efficient, including with smaller open-weight models.
+
+| Area | Focus |
+|---|---|
+| LLM evaluation | Benchmarks, reproducibility, fixed seeds and pinned models |
+| Agent protocols | Agent-to-agent transactions between organisations, tested in reproducible simulations on synthetic data |
+| Multi-agent negotiation | Mechanism design, game theory |
+| Agent security | Prompt injection, open-weight models |
+
+[ORCID](https://orcid.org/0009-0004-7698-5499) · [OpenReview](https://openreview.net/profile?id=~Komal_Vardhan_Lolugu1)
 
 ---
 
@@ -90,8 +107,8 @@ I'm a Lead Product Engineer and AI Product Engineer building production-grade Ge
 | [openmed](https://github.com/maziyarpanahi/openmed) | [SPDX identifier normalization for synthetic lineage](https://github.com/maziyarpanahi/openmed/pull/3218) | ✅ Merged |
 | [openmed](https://github.com/maziyarpanahi/openmed) | [Deterministic audio resampling plans](https://github.com/maziyarpanahi/openmed/pull/3217) | ✅ Merged |
 | [openmed](https://github.com/maziyarpanahi/openmed) | [Allocation-safe image geometry derivation](https://github.com/maziyarpanahi/openmed/pull/3216) | ✅ Merged |
-| [drift-ui](https://github.com/localhostd3veloper/drift-ui) | [Secret field component](https://github.com/localhostd3veloper/drift-ui/pull/91) | ✅ Merged |
-| [drift-ui](https://github.com/localhostd3veloper/drift-ui) | [Timezone picker component](https://github.com/localhostd3veloper/drift-ui/pull/93) | 🔄 In review |
+| [drift-ui](https://github.com/drift-ui/ui) | [Secret field component](https://github.com/drift-ui/ui/pull/91) | ✅ Merged |
+| [drift-ui](https://github.com/drift-ui/ui) | [Timezone picker component](https://github.com/drift-ui/ui/pull/93) | ✅ Merged |
 | [octogent](https://github.com/hesamsheikh/octogent) | [Terminal lifecycle commands, remote access binding fix](https://github.com/hesamsheikh/octogent/pull/7) | 🔄 In review |
 | [octogent](https://github.com/hesamsheikh/octogent) | [Test coverage for type coercion utilities](https://github.com/hesamsheikh/octogent/pull/4) | 🔄 In review |
 | [octogent](https://github.com/hesamsheikh/octogent) | [Centralized logging in place of console statements](https://github.com/hesamsheikh/octogent/pull/3) | 🔄 In review |
