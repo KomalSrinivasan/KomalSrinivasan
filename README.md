@@ -215,13 +215,13 @@ I study how to evaluate LLMs and agents reliably and reproducibly, how agents bu
 
 | Metric | Count |
 |---|---:|
-| Total contributions | 3055 |
-| Total commits | 258 |
+| Total contributions | 3085 |
+| Total commits | 259 |
 | Pull requests opened | 37 |
 | Pull requests merged | 20 |
 | Issues opened | 0 |
 | PR reviews | 0 |
-| Current streak (days) | 1 |
+| Current streak (days) | 3 |
 | Longest streak (days) | 14 |
 
 ### Year 2025
@@ -241,13 +241,13 @@ I study how to evaluate LLMs and agents reliably and reproducibly, how agents bu
 
 | Metric | Count |
 |---|---:|
-| Total contributions | 2687 |
-| Total commits | 85 |
+| Total contributions | 2717 |
+| Total commits | 86 |
 | Pull requests opened | 37 |
 | Pull requests merged | 20 |
 | Issues opened | 0 |
 | PR reviews | 0 |
-| Current streak (days) | 1 |
+| Current streak (days) | 3 |
 | Longest streak (days) | 14 |
 
 <!-- GITHUB-STATS:END -->
